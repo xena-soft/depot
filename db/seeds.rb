@@ -18,4 +18,4 @@ you should add Ruby to your toolbox.
 </p>},
 image_url: 'ruby.jpg',
 price: 49.95)
-# . . .
+# . .
